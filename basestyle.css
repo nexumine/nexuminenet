@@ -37,7 +37,7 @@ a:link {
   }
   
   a:active {
-    color: red;
+    color: ghostwhite;
     background-color: transparent;
     text-decoration: underline;
   }
